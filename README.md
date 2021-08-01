@@ -1,1 +1,1 @@
-자바 GUI와 스레드를 통해 스터디 카페 자리 예약 시스템을 구현하였다.
+![studycafe](https://user-images.githubusercontent.com/87554077/127770795-75cfbcff-551b-4648-bad1-ca88a9bcb30a.png)
