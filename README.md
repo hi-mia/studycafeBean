@@ -1,7 +1,10 @@
 ![studycafe](https://user-images.githubusercontent.com/87554077/127770795-75cfbcff-551b-4648-bad1-ca88a9bcb30a.png)
 
 사용 기술
-*Java, Oracle DB, JDBC
+* Java
+* Java Swing
+* Oracle DB
+* JDBC
 
 구현 기능
 * 회원가입
